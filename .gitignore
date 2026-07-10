@@ -1,0 +1,10 @@
+.DS_Store
+
+
+*.stl
+*.3mf
+*.gcode
+*.bak
+
+build/
+exports/

@@ -1,6 +1,4 @@
-//
-// Pavo Head
-// Version 0.1
-//
+include <config.scad>
+include <frame_mount.scad>
 
-echo("Pavo Head Foundation");
+frame_mount();

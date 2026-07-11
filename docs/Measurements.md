@@ -19,8 +19,8 @@
 
 ## Overall
 
-- Overall frame width: 31.2
-- Overall frame length: 45.5
+- Overall frame width: 63
+- Overall frame length: 64.5
 - FC top to canopy clearance: 5.5
 
 ---
@@ -29,15 +29,15 @@
 
 ## Overall
 
-- Length:
-- Width:
-- Height:
+- Length: 45.5
+- Width: 30
+- Height: 10
 
 ## Camera opening
 
 - Width:
 - Height:
-
+- Camera Ear Thickness: 
 ## Camera pivot
 
 - Screw diameter:
@@ -48,9 +48,9 @@
 
 # Camera (Caddx Ant)
 
-- Width:
-- Height:
-- Depth:
+- Width: 13.5
+- Height:13.5
+- Depth: 16
 
 - Screw spacing:
 - Screw diameter:

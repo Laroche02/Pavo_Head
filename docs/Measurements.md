@@ -8,20 +8,20 @@
 
 ## Mounting
 
-- Front left ↔ Front right (center-to-center):
-- Rear left ↔ Rear right (center-to-center):
-- Front ↔ Rear (center-to-center):
+- Front left ↔ Front right (center-to-center): 30 
+- Rear left ↔ Rear right (center-to-center):30
+- Front ↔ Rear (center-to-center): 30
 
-- Mount hole diameter:
-- Rubber grommet OD:
-- Rubber grommet ID:
-- Rubber grommet height:
+- Mount hole diameter: 3.5 
+- Rubber grommet OD: 6.0
+- Rubber grommet ID: 8.5
+- Rubber grommet height: 8.5
 
 ## Overall
 
-- Overall frame width:
-- Overall frame length:
-- FC top to canopy clearance:
+- Overall frame width: 31.2
+- Overall frame length: 45.5
+- FC top to canopy clearance: 5.5
 
 ---
 
